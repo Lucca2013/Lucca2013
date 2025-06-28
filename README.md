@@ -37,8 +37,8 @@
 <h2>📈 GitHub Stats</h2>
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucca2013&show_icons=true&theme=radical&cache_buster=20250628" height="160"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucca2013&layout=compact&theme=radical&cache_buster=20250628" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Lucca2013&show_icons=true&theme=radical&cache_seconds=1" height="160"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucca2013&layout=compact&theme=radical&cache_seconds=1" height="160"/>
 </p>
 
 <h2>📫 Talk to Me</h2>
