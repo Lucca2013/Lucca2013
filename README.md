@@ -3,7 +3,6 @@
 <h1 align="center">Hi there 👋, I'm Lucca Felipetto</h1>
 <p align="center"> 
   <b>Full-Stack Developer</b><br>
-  <i>I build websites, tools, and game projects with code and creativity</i>
 </p>
 
 <hr>
