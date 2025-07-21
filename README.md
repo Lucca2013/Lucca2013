@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there 👋, I'm Lucca Felipetto</h1>
 <p align="center"> 
-  <b>Full-Stack Developer</b><br>
+  <b>Back and Front Developer</b><br>
 </p>
 
 <hr>
