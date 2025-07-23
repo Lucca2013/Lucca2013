@@ -20,7 +20,7 @@
 <ul>
   <li><b>💻🔵 WizardPc</b> – <a href="https://github.com/Lucca2013/WizardPc" target="_blank">github.com/Lucca2013/WizardPc</a></li>
   <li><b>🧐⚫ Zerocodecourse</b> – <a href="https://github.com/Lucca2013/zerocodecourse" target="_blank">github.com/Lucca2013/zerocodecourse</a></li>
-  <li><b>📸🔴 HTML & Python YouTube Downloader</b> – <a href="https://github.com/Lucca2013/HTML-python-YouTube-Video-Downloader" target="_blank">github.com/Lucca2013/HTML-python-YouTube-Video-Downloader</a></li>
+  <li><b>📸🔴 HTML, Python & SQlite YouTube Downloader</b> – <a href="https://github.com/Lucca2013/HTML-python-YouTube-Video-Downloader" target="_blank">github.com/Lucca2013/HTML-python-YouTube-Video-Downloader</a></li>
 </ul>
 
 <h2>🧰 Technologies I Use</h2>
