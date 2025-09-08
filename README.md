@@ -7,7 +7,7 @@
 
 <hr>
 
-<h2>🧠 About Me</h2>
+<h2> About Me</h2>
 
 <ul>
   <li>💻 Programmer with experience in <b>Python</b>, <b>JavaScript && TypeScript</b>, <b>HTML</b>, and <b>CSS</b></li>
