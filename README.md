@@ -20,6 +20,7 @@
 <ul>
   <li><b>📲🟣 MomSchedulerWebsite. NodeJs and PostgreSQL</b> – <a href="https://github.com/Lucca2013/MomSchedulerWebsite" target="_blank">https://github.com/Lucca2013/MomSchedulerWebsite</a></li>
   <li><b>📸🔴 HTML, Python & SQlite YouTube Downloader</b> – <a href="https://github.com/Lucca2013/HTML-python-YouTube-Video-Downloader" target="_blank">github.com/Lucca2013/HTML-python-YouTube-Video-Downloader</a></li>
+  <li><b>🧑‍💻🟡 EasySession LIb (in developement)</b> – <a href="https://github.com/Lucca2013/EasySessions-Lib" target="_blank">https://github.com/Lucca2013/EasySessions-Lib</a></li>
 </ul>
 
 <h2>🧰 Technologies I Use</h2>
