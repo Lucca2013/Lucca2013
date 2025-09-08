@@ -18,12 +18,12 @@
 <h2>📌 Featured Projects</h2>
 
 <ul>
-  <li><b>📲🟣 MomSchedulerWebsite. NodeJs and PostgreSQL</b> – <a href="https://github.com/Lucca2013/MomSchedulerWebsite" target="_blank">https://github.com/Lucca2013/MomSchedulerWebsite</a></li>
-  <li><b>📸🔴 HTML, Python & SQlite YouTube Downloader</b> – <a href="https://github.com/Lucca2013/HTML-python-YouTube-Video-Downloader" target="_blank">github.com/Lucca2013/HTML-python-YouTube-Video-Downloader</a></li>
-  <li><b>🧑‍💻🟡 EasySession LIb (in developement)</b> – <a href="https://github.com/Lucca2013/EasySessions-Lib" target="_blank">https://github.com/Lucca2013/EasySessions-Lib</a></li>
+  <li><b> MomSchedulerWebsite. NodeJs and PostgreSQL</b> – <a href="https://github.com/Lucca2013/MomSchedulerWebsite" target="_blank">https://github.com/Lucca2013/MomSchedulerWebsite</a></li>
+  <li><b> HTML, Python & SQlite YouTube Downloader</b> – <a href="https://github.com/Lucca2013/HTML-python-YouTube-Video-Downloader" target="_blank">github.com/Lucca2013/HTML-python-YouTube-Video-Downloader</a></li>
+  <li><b> EasySession LIb (in developement)</b> – <a href="https://github.com/Lucca2013/EasySessions-Lib" target="_blank">https://github.com/Lucca2013/EasySessions-Lib</a></li>
 </ul>
 
-<h2>🧰 Technologies I Use</h2>
+<h2>Technologies I Use</h2>
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
@@ -46,9 +46,3 @@
   <li>Email: <b>luccafelipetto@gmail.com</b></li> 
   <li>Ko-fi: <a href="https://ko-fi.com/luccafelipetto">ko-fi.com/luccafelipetto</a></li>
 </ul>
-
----
-
-<p align="center"> 
-  Made with 💙 by <b>Lucca</b>
-</p>
