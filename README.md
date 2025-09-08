@@ -10,7 +10,7 @@
 <h2>🧠 About Me</h2>
 
 <ul>
-  <li>💻 Programmer with experience in <b>Python</b>, <b>JavaScript</b>, <b>HTML</b>, and <b>CSS</b></li>
+  <li>💻 Programmer with experience in <b>Python</b>, <b>JavaScript && TypeScript</b>, <b>HTML</b>, and <b>CSS</b></li>
   <li>🚀 I'm just getting started on GitHub — more cool projects are coming soon!</li>
   <li>🔗 I accept donations or project purchases through my <a href="https://ko-fi.com/luccafelipetto" target="_blank">Ko-fi Shop</a></li>
 </ul>
