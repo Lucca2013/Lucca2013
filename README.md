@@ -33,7 +33,7 @@ Web application for downloading YouTube videos, with user accounts and download 
 ➡️ <a href="https://github.com/Lucca2013/Py-Flask-SQlite-ytDownloader" target="_blank">Code</a>
 </li>
 <li>
-<b>EasySession Lib</b> (TypeScript – In Development):
+<b>EasySession Lib</b> :
 Open-source library to simplify session management in sites. <br>➡️ <a href="https://github.com/Lucca2013/EasySessions-Lib" target="_blank">Code</a> 
 </li>
 </ul>
