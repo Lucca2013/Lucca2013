@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there 👋, I'm Lucca Felipetto</h1>
 <p align="center">
-<b>Full-Stack Developer (intermediate)</b><br>
+<b>Back-end Developer (intermediate)</b><br>
 </p>
 
 <hr>
@@ -10,7 +10,7 @@
 <h2>👋 About Me</h2>
 
 <p>
-I'm an <b>Intermediate Full-Stack Developer</b> focused on web applications. <br>
+I'm an <b>Intermediate Back-end Developer</b> focused on web applications. <br>
 To develop my applications, I mainly use <b>JS/TS</b> with <b>Express.js</b> or <b>Python</b> with <b>Flask</b>
 </p>
 
