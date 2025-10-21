@@ -11,32 +11,7 @@
 
 <p>
 I'm an <b>Intermediate Back-end Developer</b> focused on web applications. <br>
-To develop my applications, I mainly use <b>JS/TS</b> with <b>Express.js</b> or <b>Python</b> with <b>Flask</b>
 </p>
-
-<ul>
-<li> Currently exploring and improving <b>TypeScript</b> </li>
-<li> Open to collaborations on open-source projects and opportunities as a <b>Junior/Mid-Level Developer</b>.</li>
-</ul>
-
-<h2>📌 Featured Projects</h2>
-
-<ul>
-<li>
-<b>MomSchedulerWebsite</b> (Node.js, Express, PostgreSQL):
-Complete scheduling system with authentication and calendar task management.
-➡️ <a href="https://github.com/Lucca2013/MomSchedulerWebsite" target="_blank">Code</a>
-</li>
-<li>
-<b>YouTube Downloader</b> (Python, Flask, SQLite):
-Web application for downloading YouTube videos, with user accounts and download history.
-➡️ <a href="https://github.com/Lucca2013/Py-Flask-SQlite-ytDownloader" target="_blank">Code</a>
-</li>
-<li>
-<b>EasySession Lib</b> :
-Open-source library to simplify session management in sites. <br>➡️ <a href="https://github.com/Lucca2013/EasySessions-Lib" target="_blank">Code</a> 
-</li>
-</ul>
 
 <h2>⚡ Technologies I Use</h2>
 
