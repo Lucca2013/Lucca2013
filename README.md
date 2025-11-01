@@ -1,29 +1,22 @@
 <!-- README.md -->
 
 <h1 align="center">Hi there 👋, I'm Lucca Felipetto</h1>
+
+<h2 align="center"> About Me</h2>
+
 <p align="center">
-<b>Back-end Developer (intermediate)</b><br>
-</p>
-
-<hr>
-
-<h2>👋 About Me</h2>
-
-<p>
 I'm an <b>Intermediate Back-end Developer</b> focused on web applications. <br>
 </p>
 
-<h2>⚡ Technologies I Use</h2>
-
-<p> 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
-<img src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> 
-<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"/> 
-<img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
+<h2> Technologies I Use</h2>
+<div >
+  <a her="https://skillicons.dev" align="center">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet" align="center"/> 
+    <img src="https://skillicons.dev/icons?i=ts,js,express" align="center"/> 
+    <img src="https://skillicons.dev/icons?i=py,flask" align="center"/> 
+    <img src="https://skillicons.dev/icons?i=postgres" align="center"/> 
+  </a>
+</div>
 
 <h2>📈 GitHub Stats</h2>
 
@@ -34,7 +27,10 @@ I'm an <b>Intermediate Back-end Developer</b> focused on web applications. <br>
 
 <h2>📫 Talk to Me</h2>
 
-<ul> 
-<li>Email: <b>luccafelipetto@gmail.com</b></li> 
-<li>Ko-fi: <a href="https://ko-fi.com/luccafelipetto">ko-fi.com/luccafelipetto</a></li>
-</ul>
+<p><img src="https://skillicons.dev/icons?i=discord" align="center"/> <b> => .n4njaezz</b></li>
+<p><img src="https://skillicons.dev/icons?i=gmail" align="center"/> <b> => luccafelipetto@gmail.com</b></li> 
+<p>
+  <a href="https://ko-fi.com/luccafelipetto">
+    <img src="https://cdn.prod.website-files.com/5c14e387dab576fe667689cf/670f5a0171bfb928b21a7e00_support_me_on_kofi_beige.png" width="200" height="80" />
+  </a>
+</p>
